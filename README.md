@@ -12,4 +12,5 @@ Visit page: <https://code.visualstudio.com/docs/typescript/typescript-compiling>
 
 ```bash
 npm install -g typescript
+npm install lite-server
 ```
