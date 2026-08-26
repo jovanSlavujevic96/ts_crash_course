@@ -1,0 +1,17 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "run": "ts-node --compiler-options '{\"module\":\"commonjs\",\"moduleResolution\":\"node\"}' script.ts"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
